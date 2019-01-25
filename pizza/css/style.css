@@ -1,0 +1,35 @@
+body{
+	font-family: cursive;
+}
+
+#menubar{
+	font-size: 24px;
+	font-family: cursive;
+}
+
+.table-center{
+	margin: auto;
+}
+.text-color
+{
+	color:black;
+}
+
+.bg-color
+{
+	background-color: white;
+}
+
+#desc{
+	width: 30%;
+}
+.image-cell{
+	/*margin-right: 10px;*/
+	margin-bottom: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        font-family: "Times New Roman";
+    }
+}
